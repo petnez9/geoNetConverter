@@ -17,7 +17,7 @@ A simple Python 🐍 tool that transforms a shapefile of terrain vertices into a
 
 ```
 📂 your_project/
-├── main.py               # Main script
+├── shape_reader.py               # Main script
 ├── classes.py            # Node & Arc class definitions
 ├── vertices_height_split.shp  # Input shapefile (you provide this)
 ├── node_json.json        # Output: node network
