@@ -1,5 +1,7 @@
 # 🌍 GeoNetwork Converter
 
+© Peter Nezval 2022
+
 A simple Python 🐍 tool that transforms a shapefile of terrain vertices into a lightweight graph of **nodes** and **arcs**, with spatial and elevation data. Perfect for GIS nerds working on pathfinding, elevation-aware routing, or geonetwork simplification.
 
 ---
